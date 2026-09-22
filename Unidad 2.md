@@ -9,3 +9,10 @@ E: cuestionarios psicol처gicos y casos de personas cuyo diagn처stico o evaluaci�
 T: identificar los principales rasgos de personalidad de una persona a partir de sus respuestas a un cuestionario psicol처gico.
 P: porcentaje de coincidencia entre los rasgos identificados por el sistema y los resultados obtenidos mediante una evaluaci처n psicol처gica realizada por un profesional.
 E: cuestionarios de personalidad previamente contestados y evaluados por psic처logos.
+
+Actividad 2.2 
+Estudiar los tres artefactos y escribir con sus propias palabras en que consisten  cada una de las tres clasificaciones: supervisado, sin supervisar y por refuerzo
+
+Supervisado: aprende con ejemplos que ya tienen respuestas
+No supervisado: encuentra patrones en datos sin respuestas previas 
+Por refuerzo: aprende por prueba y error, por premio y "castigo"
