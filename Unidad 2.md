@@ -75,3 +75,21 @@ Glosario general
     
 
 **
+
+Actividad 2.4
+**
+
+Árbol de decisión (Decision Tree): Es un algoritmo de aprendizaje supervisado que toma decisiones mediante una estructura parecida a un árbol. Divide los datos en diferentes ramas haciendo preguntas o condiciones sobre sus características hasta llegar a una predicción final, llamada hoja.
+
+Regresión logística (Logistic Regression):Es un algoritmo de aprendizaje supervisado utilizado principalmente para problemas de clasificación. Calcula la probabilidad de que una observación pertenezca a una determinada clase y, normalmente, transforma esa probabilidad en una decisión mediante un umbral.
+
+ K vecinos más cercanos (K-NN): es un algoritmo supervisado que clasifica una observación según las clases de sus K vecinos más cercanos. La idea principal es que datos similares suelen encontrarse cerca unos de otros.
+
+Naive Bayes: es una familia de algoritmos de clasificación basados en el teorema de Bayes. Calcula la probabilidad de que una observación pertenezca a cada clase y selecciona la clase con mayor probabilidad.
+
+SVM (Support Vector Machine):es un algoritmo supervisado que busca encontrar una frontera de decisión que separe las clases de la mejor manera posible. En su forma básica, intenta maximizar el margen entre los grupos.
+
+Bosque aleatorio (Random Forest): es un algoritmo de aprendizaje supervisado que combina muchos árboles de decisión para producir una predicción más robusta. Cada árbol aprende a partir de una muestra de los datos y de un subconjunto de características.
+
+Red neuronal (Neural Network):Una red neuronal artificial es un modelo de aprendizaje automático inspirado de manera simplificada en el funcionamiento de las neuronas biológicas. Está formada por capas de nodos o neuronas que transforman las entradas mediante pesos, sesgos y funciones de activación.
+
