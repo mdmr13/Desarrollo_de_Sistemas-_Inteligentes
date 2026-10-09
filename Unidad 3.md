@@ -23,3 +23,13 @@ Sistemas de búsqueda (ciega)
 8) Optimalidad: Es la propiedad de un algoritmo que garantiza encontrar la mejor solución posible, generalmente la de menor costo
 9) Complejidad en tiempo: Es la cantidad de tiempo o de operaciones que necesita un algoritmo para encontrar una solución, según el tamaño del problema
 10) Complejidad en espacio: Es la cantidad de memoria que necesita un algoritmo para almacenar los nodos y la información durante el proceso de búsqueda
+
+![[Pasted image 20261008181203.png]]
+
+
+Busca primero las rutas más cercanas y luego las más lejanas, si cada pasito cuesta lo mismo, encuentra el camino con menos pasos
+
+
+![[Pasted image 20261008181320.png]]
+
+Busca el camino que cueste menos recorrer, si todos los movimientos cuestan lo mismo, va a buscar un camino con la menor cantidad de pasos
