@@ -33,3 +33,12 @@ Busca primero las rutas más cercanas y luego las más lejanas, si cada pasito c
 ![[Pasted image 20261008181320.png]]
 
 Busca el camino que cueste menos recorrer, si todos los movimientos cuestan lo mismo, va a buscar un camino con la menor cantidad de pasos
+
+Actividad 3.2 
+Compara en la página dos algoritmos (A*) y uno ciego. Contestar las preguntas: 
+Qué longitud tiene cada algoritmo? El primero (Manhattan) 16 y el segundo (Ciego) también
+Cuánto tiempo se tardo cada algoritmo? El Manhattan 0.4000ms y el Ciego 1.6000
+Qué diferencia observas? El Manhattan es más rápido 
+
+![[Pasted image 20261014155910.png]]
+![[Pasted image 20261014155926.png]] 
