@@ -96,3 +96,11 @@ El título promete 12 aplicaciones de Machine Learning pero algunas son muy pare
 Menciona cifras como que la precisión de los pronósticos llega al 80% y que se puede aumentar la retención de usuarios más del 30% pero no explica cómo obtuvo esos datos ni que datos fueron utilizados para medirlo, preguntaría por las fuentes que "respaldan" estas cifras
 
 Como es de una empresa que ofrece servicios de tecnología, me hace pensar que podría estar destacando más las ventajas del Machine Learning que sus desventajas; buscaría fuentes independientes que confirmen lo que dice. 
+
+Actividad 3.4
+Qué relación las GPUS con las redes neuronales y las neuronas? como se beneficiaron una de otra?  
+Las neuronas inspiraron el diseño de las redes neuronales artificiales y las GPUs hicieron posible entrenar estas redes. Pero las redes neuronales artificiales no funcionan tal cual las redes neuronales humanas. 
+Las redes neuronales se inspiraron de las redes humanas para hacer modelos que puedan entrenarse mediante algoritmos que les permitan discernir y aprender lo que se necesita y las GPUs permitieron que esto se pueda realizar de manera más rápida porque pueden ejecutar grandes cantidades de operaciones  mismo tiempo y esto tambien impulsó a que se sigan desarrollando las GPUs. 
+
+Act 3.5
+![[RedesNeuronalesMarthaM.drawio.png]]
