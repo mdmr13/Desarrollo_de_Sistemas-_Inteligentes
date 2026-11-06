@@ -104,3 +104,17 @@ Las redes neuronales se inspiraron de las redes humanas para hacer modelos que p
 
 Act 3.5
 ![[RedesNeuronalesMarthaM.drawio.png]]
+
+**
+
+Act 3.6 
+Tabla de Motores de Inferencia
+
+|             | Mamdani                                                                                                                                                                                                                                                                                   | Takagi-Sugeno                                                                                                                                                                                                                                                                                                                                   |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Definición  | Motor de inferencia difusa que utiliza reglas expresadas mediante conjuntos difusos, tanto en las entradas como en las salidas. Su resultado es un conjunto difuso que posteriormente se convierte en un valor numérico mediante un proceso llamado desfusificación                       | Motor de inferencia difusa que utiliza reglas cuyas salidas son funciones matemáticas o valores constantes. Calcula el resultado numérico mediante un promedio ponderado de las salidas de las reglas.                                                                                                                                          |
+| Ventajas    | - Es fácil de entender e interpretar<br><br>- Utiliza reglas similares al razonamiento humano<br><br>- Es adecuado para problemas donde se necesita tomar decisiones basadas en conocimientos expertos<br><br>- Permite representar situaciones complejas mediante variables lingüísticas | - Tiene un menor costo computacional<br><br>- Ofrece resultados numéricos precisos<br><br>- Es adecuado para sistemas de control y modelado matemático<br><br>- Facilita la optimización y adaptación mediante algoritmos matemáticos                                                                                                           |
+| Desventajas | - Requiere un proceso adicional de desfusificación<br><br>- Puede tener un mayor costo computacional<br><br>- Su ajuste puede ser complicado cuando existen muchas reglas<br><br>- Puede ser menos eficiente para sistemas que necesitan cálculos en tiempo real                          | - Sus reglas pueden ser más difíciles de interpretar para personas sin conocimientos matemáticos<br><br>- Requiere definir funciones matemáticas para las salidas.<br><br>- Puede ser menos intuitivo para representar conocimientos expresados en lenguaje cotidiano<br><br>- Su diseño puede requerir conocimientos matemáticos más avanzados |
+
+  
+**
